@@ -1,0 +1,141 @@
+html, body{
+    margin: 0; /* сброс стандартных отступов браузера */
+    box-sizing: border-box;
+    /* background: url(img/fon.jpg); */
+    background: rgb(3, 2, 6);
+    font-family: Arial, Tahoma, sans-serif;
+
+}
+
+h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #6070ee;
+    
+    
+}
+.section-description{
+    color: #9cacfc;
+    margin: 10px 75px 10px 35px;
+    font-size: 30px;
+    text-decoration: none;
+
+    
+}
+.container{
+    width: 950px;
+    margin: 10px auto;
+    float: right;
+}
+.goods-cart{
+    width: 220px;
+    height: 350px;
+    margin: 14px 35px 10px 30px;
+    background: rgb(1, 10, 78);
+    float:left;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 15px;
+    background: radial-gradient( #75329f,#080347);
+
+}
+.goods-cart img {
+    margin-top: 20px;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+.goods-cart .goods-name{
+    color: #acacf6;
+    margin-top: 6px;
+
+    
+}
+.goods-cart .cost {
+    color: #acacf6;
+    margin-bottom: 15px;
+}
+
+.categoria{
+    width: 260px;
+    height: 800px;
+    background: rgb(0, 2, 15);
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 15px;
+    background: radial-gradient( #2f1669,#080347);
+
+}
+
+.good-category{
+    color: #acacf6;
+}
+
+.img-log{
+    width: 150px;
+    height: 150px;
+    margin: 10px ;
+}
+
+.about{
+    
+    font-size: 15px;
+    color: #a2a2eb;
+    font-weight: 200;
+}
+
+.film{
+    width: 40%;
+    min-height: 100px;
+    font-size: 15px;
+    color: #ccccf0;
+    margin-right: 35px;
+    float: left;
+}
+
+.opisanie{
+    color: #d6d6f6;
+    float: left;
+    margin-bottom: 25px;
+    width: 950px;
+    margin-left: 30px;
+}
+
+.good-block{
+    width: 950px;
+    min-height: 10px;
+    margin-bottom: 20px;
+}
+.img-log{
+    width: 150px;
+    height: 150px;
+    margin: 10px ;
+}
+.copyright{
+    text-align: left;
+    color: #acacf6;
+    margin-left: 10px;
+    
+
+}
+.block370{
+    margin-top: 850px;
+    background: radial-gradient( #2f1669,#080347);
+    height: 250px;
+    width: 100%;
+    position: absolute;
+}
+
+.img-footer{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.mail-link{
+    text-decoration: none;
+    color: #acacf6;
+}

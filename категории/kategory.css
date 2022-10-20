@@ -1,0 +1,111 @@
+html, body{
+    margin: 0; /* сброс стандартных отступов браузера */
+    box-sizing: border-box;
+    /* background: url(img/fon.jpg); */
+    background: rgb(3, 2, 6);
+    font-family: Arial, Tahoma, sans-serif;
+    text-decoration: none;
+
+}
+
+h1{
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color:#acacf6;
+    
+}
+.section-description{
+    color: #9cacfc;
+    margin: 10px 75px 10px 25px;
+    font-size: 40px;
+
+    
+}
+.container{
+    width: 1200px;
+    margin: 10px auto;
+}
+.goods-cart{
+    width: 220px;
+    height: 380px;
+    margin: 20px 25px 10px 35px;
+    /* background: #1c028691; */
+    background: rgb(1, 10, 78);
+    float:left;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 15px;
+    background: radial-gradient( #75329f,#080347);
+
+}
+.goods-cart img {
+    margin-top: 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+.goods-cart .goods-name{
+    color: #acacf6;
+    margin-top: 6px;
+
+    
+}
+.goods-cart .cost {
+    color: #acacf6;
+    margin-bottom: 15px;
+}
+
+.categoria{
+    width: 260px;
+    height: 500px;
+    /* margin: 130px 10px 10px 20px; */
+    /* background: #1c028691; */
+    background: rgb(0, 2, 15);
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 15px;
+    background: radial-gradient( #2f1669,#080347);
+
+}
+
+.good-category{
+    color: #acacf6;
+    text-decoration: none;
+}
+
+.img-log{
+    width: 150px;
+    height: 150px;
+    margin: 10px ;
+}
+
+
+.copyright{
+    text-align: left;
+    color: #acacf6;
+    margin-left: 10px;
+    
+
+}
+.block370{
+    position: absolute;
+    background: radial-gradient( #2f1669,#080347);
+    margin-top: 500px;
+    height: 250px;
+    width: 1900px;
+}
+
+.img-footer{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.mail-link{
+    text-decoration: none;
+    color: #acacf6;
+}
